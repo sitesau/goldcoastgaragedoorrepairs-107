@@ -1,0 +1,22 @@
+{
+  "wheel_id": 649,
+  "structure": "umbrella",
+  "slug": "goldcoastgaragedoorrepairs-107",
+  "project": "garage-door-repairs-gold-coast-faq-cf77bf5876e9eb2a4c517f5a6739",
+  "parent_t1_ref": "goldcoastgaragedoorrepairs-153",
+  "node_role": "feeder",
+  "money_target": "goldcoastgaragedoorrepairs.com.au",
+  "primary_kw": "garage door repairs gold coast faq",
+  "intended_url": "https://sitesau.github.io/goldcoastgaragedoorrepairs-107/",
+  "tier": "T2",
+  "writeback_nonce": "3f4f3c722b1debdb",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/garage-door-repairs-gold-coast-local-options-compared-857aad/",
+      "anchor": "this guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
